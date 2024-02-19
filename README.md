@@ -12,9 +12,17 @@
 
 
 
+
 <a href="#">
   <img width="80%"
             src="https://github.com/Juan-Sebastian-Rios-Martinez/LOGOS/assets/47394043/9e4c9440-cfe0-430c-8fa1-071f156e622d" />
+    </a>  
+
+&nbsp;
+
+<a href="#">
+  <img width="80%"
+            src="https://github.com/Juan-Sebastian-Rios-Martinez/UX-UI/assets/47394043/431fc2d6-9fa9-46cb-b6a2-e6636d51dc49" />
     </a>  
 
 &nbsp;
