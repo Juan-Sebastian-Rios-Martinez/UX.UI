@@ -20,17 +20,16 @@
 &nbsp;
 
 
-
 <a href="#">
   <img width="80%"
-            src="https://github.com/Juan-Sebastian-Rios-Martinez/LOGOS/assets/47394043/89c89343-fbaa-4f23-ad5f-13250fd80344" />
+            src="https://github.com/Juan-Sebastian-Rios-Martinez/UX-UI/assets/47394043/7fa17fd7-0305-4a21-a8ed-ec2af9537d12" />
     </a>  
 
 &nbsp;
 
 <a href="#">
   <img width="80%"
-            src="https://github.com/Juan-Sebastian-Rios-Martinez/LOGOS/assets/47394043/b85ae01e-9fc3-4659-b9a8-ae113840e5b0" />
+            src="https://github.com/Juan-Sebastian-Rios-Martinez/UX-UI/assets/47394043/0928c644-cf38-4370-8544-1a1ea2ab4ec2" />
     </a>
 
 
@@ -41,7 +40,7 @@
 
 <a href="#">
   <img width="80%"
-            src="https://github.com/Juan-Sebastian-Rios-Martinez/LOGOS/assets/47394043/e9f20a58-56ef-41a1-b9f8-97df0cba598f" />
+            src="https://github.com/Juan-Sebastian-Rios-Martinez/UX-UI/assets/47394043/fa72e07a-0775-47e3-9b2d-7707a7898a86" />
     </a>
 
 
