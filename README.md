@@ -1,18 +1,11 @@
-&nbsp;
 
-<div align="center">
-   <a href="#">
-  <img width="80%"
-            src="(https://github.com/Juan-Sebastian-Rios-Martinez/UX-UI/assets/47394043/93303028-f58f-4580-adc3-a24d113dc9e4" />
-    </a>  
-   
 &nbsp;
 
 
 
 <a href="#">
   <img width="80%"
-            src="https://github.com/Juan-Sebastian-Rios-Martinez/LOGOS/assets/47394043/52f11a1b-2963-4c0e-942b-c061a26febb2" />
+            src="https://github.com/Juan-Sebastian-Rios-Martinez/UX-UI/assets/47394043/3e555a81-d31c-4548-abec-1e689e15f46e" />
     </a>  
 
 &nbsp;
